@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juniorfuta ( PalancaTechnologies) 
+- 👋 Hi, I’m Júnior Futa ( PalancaTechnologies) 
 - 👀 I’m interested in Electrical and Electronic Engineering and Computer Science
 - 🌱 I’m currently learning Electrical Engineering and Industrial Information Technology and Programming
 - 🤝 I’m looking to collaborate on Software Projects, Electronic Projects and Tech Startups
