@@ -1,4 +1,2 @@
-- 👋 Hi, I’m Júnior Futa
-- 👀 I’m interested in Electrical and Electronic Engineering and Computer Science
-- 🌱 I’m currently learning Electrical Engineering and Industrial Computer and Programming
-- 🤝 I’m looking to collaborate on Software Projects, Electronic Projects and Tech Startups
+ESTAM, Palanca Technologies (Palancatech), Global Service
+looking to collaborate on Software Projects and Tech Startups
